@@ -1,2 +1,5 @@
 # Hello-World-
-Mein erstes Repository
+
+Mein Name ist Julia
+
+Ich mag Sushi und Tee
